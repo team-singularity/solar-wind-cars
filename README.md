@@ -1,6 +1,6 @@
 # Solar Wind Cars
 
-<img src="https://raw.githubusercontent.com/team-singularity/.github/main/profile/img/title.jpg" alt="Solar Wind Cars Background">
+<img src="https://raw.githubusercontent.com/team-singularity/solar-wind-cars/main/img/title.jpg" alt="Solar Wind Cars Background">
 
 Project made in [NASA Space Apps Challenge Prague 2022](https://2022.spaceappschallenge.org/) hackathon. The challenge was to display creatively  data form Parker Solar Probe.
 
@@ -14,7 +14,7 @@ If you want to know more about the Parker Solar Probe and our Sun and it’s cor
 ## Demo
 [Click here](https://solarwindcars.eu/)
 
-<img src="https://raw.githubusercontent.com/team-singularity/.github/main/profile/img/solar-wind-cars.jpg" align="right" alt="Solar Wind Cars Background" width="400">
+<img src="https://raw.githubusercontent.com/team-singularity/solar-wind-cars/main/img/solar-wind-cars.jpg" align="right" alt="Solar Wind Cars Background" width="400">
 
 ## What we created
 
